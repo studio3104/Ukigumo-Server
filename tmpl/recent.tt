@@ -9,9 +9,9 @@
 
         <table>
             <tr>
-                <th>[% l('Project') %]</th>
-                <th>[% l('Branch') %]</th>
-                <th>[% l('Revision') %]</th>
+                <th>[% l('Host') %]</th>
+                <th>[% l('Role') %]</th>
+                <th>[% l('Spec') %]</th>
                 <th>[% l('Status') %]</th>
                 <th>[% l('Date') %]</th>
             </tr>

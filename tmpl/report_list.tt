@@ -9,7 +9,7 @@
 
         <table>
             <tr>
-                <th>[% l('Revision') %]</th>
+                <th>[% l('Spec') %]</th>
                 <th>[% l('Status') %]</th>
                 <th>[% l('Date') %]</th>
             </tr>
